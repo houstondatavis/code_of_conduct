@@ -6,7 +6,7 @@ The Houston Data Visualization Meetup is dedicated to providing a harassment-fre
 
 ## Applicability and Scope
 
-This code of conduct applies to all of this community's spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the organizers.
+This code of conduct applies to all of this community's spaces, including in-person meetups, online public channels, private channels and direct messages. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the organizers.
 
 ## Toward a Welcoming and Safe Environment
 
@@ -44,7 +44,7 @@ If you have questions or concerns about these issues please feel free to message
 
 ## Reporting
 
-If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the organizers via Meetup message or e-mail. If the person who is harassing you is on the organizer team, they will not be involved in handling or resolving the incident.
+If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the organizers via Meetup message, e-mail, or in person. If the person who is harassing you is on the organizer team, they will not be involved in handling or resolving the incident.
 
 The organizer team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no organizers are currently present) then please put your personal safety and well-being first, and consider leaving the event and contacting the organizer by email at neeraj@houstondatavis.org.
 

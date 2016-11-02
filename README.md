@@ -44,9 +44,14 @@ If you have questions or concerns about these issues please feel free to message
 
 ## Reporting
 
-If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the organizers via Meetup message, e-mail, or in person. If the person who is harassing you is on the organizer team, they will not be involved in handling or resolving the incident.
+If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the organizers via Meetup message, e-mail, or in person. If the person who is harassing you is on the organizer team, they will not be involved in handling or resolving the incident. 
 
-The organizer team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no organizers are currently present) then please put your personal safety and well-being first, and consider leaving the event and contacting the organizer by email at neeraj@houstondatavis.org.
+Organizer e-mail addresses
+* yulan@houstondatavis.org
+* amanda@houstondatavis.org
+* neeraj@houstondatavis.org
+
+The organizer team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no organizers are currently present) then please put your personal safety and well-being first, and consider leaving the event and contacting one of the organizers listed above by email.
 
 This code of conduct applies to our community's spaces, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the organizers, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The organizers reserve the right to exclude people from the community based on their past behavior.
 

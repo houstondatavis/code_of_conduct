@@ -48,7 +48,7 @@ If you are being harassed by a member of our community, notice that someone else
 
 The organizer team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no organizers are currently present) then please put your personal safety and well-being first, and consider leaving the event and contacting the organizer by email at neeraj@houstondatavis.org.
 
-This code of conduct applies to our community's spaces, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the organizers, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the community based on their past behavior, including behavior outside of our spaces and behavior towards people who are not in this slack.
+This code of conduct applies to our community's spaces, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the organizers, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The organizers reserve the right to exclude people from the community based on their past behavior.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 

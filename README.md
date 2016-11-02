@@ -1,8 +1,8 @@
-# Community Covenant
+# Code of Conduct
 
 ## Our Goal
 
-This community is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+The Houston Data Visualization Meetup is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
 ## Applicability and Scope
 

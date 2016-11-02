@@ -51,7 +51,7 @@ Organizer e-mail addresses
 * amanda@houstondatavis.org
 * neeraj@houstondatavis.org
 
-The organizer team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no organizers are currently present) then please put your personal safety and well-being first, and consider leaving the event and contacting one of the organizers listed above by email.
+The organizer team will respond to any complaint as promptly as we can. If you do not get a timely response (for example, if no organizers are currently present) then please put your personal safety and well-being first, and consider leaving the event and contacting one of the organizers listed above by email.
 
 This code of conduct applies to our community's spaces, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the organizers, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The organizers reserve the right to exclude people from the community based on their past behavior.
 
